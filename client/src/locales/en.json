@@ -1,0 +1,10 @@
+{
+  "message": "hello i18n hehehehe !!",
+  "HomeNav": {
+    "Home": "Home",
+    "Clips": "Clips",
+    "Rankings": "Rankings",
+    "Goods": "Goods",
+    "About": "About"
+  }
+}
